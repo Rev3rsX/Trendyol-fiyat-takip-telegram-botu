@@ -20,7 +20,7 @@ def send_welcome(message):
                           "örnek kod biçimi : <ilan-url> 58.14\n"
                           "══════════════════   \n"
                           
-                          " Developer: Eray Özkan")
+                          " Developer: LbRCodeR ")
 
 print("BOT ÇALIŞIYOR")
 
